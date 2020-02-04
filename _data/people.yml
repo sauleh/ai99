@@ -3,32 +3,33 @@ instructor:
   profile_pic: /_images/eetemadi.jpg
 
 teaching_assistants:
+  - name: Alireza Moradi
+    profile_pic: /_images/alireza-moradi.jpg
+
+  - name: Ghazale Mahmoudi
+    profile_pic: /_images/avatar.png
+
+  - name: Mahdi Moghadami
+    profile_pic: /_images/mahdi-moghaddami.jpg
+
   - name: Maryam S. Hashemi
     profile_pic: /_images/hashemi.jpg
 
-  - name: Soheil Rastegar
-    profile_pic: /_images/rastegar.jpg
+  - name: Mohammad Javad Mirshekari
+    profile_pic: /_images/keyvan-mirshekari.jpg
 
-  - name: Amir Khakpour
-    profile_pic: /_images/khakpour.jpg
+  - name: Mohammad Javad Pirhadi
+    profile_pic: /_images/pirhadi.jpg
+    
+  - name: Mohammad Mahdi Abdollahpour
+    profile_pic: /_images/avatar.png    
 
-  - name: Mahsa S. Razavi
-    profile_pic: /_images/razavi.jpg
-
-  - name: <a href="https://banafsheh-karimian.jimdofree.com/">Banafeshe Karimian</a>
-    profile_pic: /_images/karimian.jpg
-
-  - name: Ali Aleyasin
-    profile_pic: /_images/aleyasin.jpg
-
-  - name: <a href="https://github.com/fatemetkl">Fateme Tavakoli</a>
-    profile_pic: /_images/tavakoli.jpg
-
-  - name: Ali Safarpour Dehkordi
-    profile_pic: /_images/safarpour.jpg
-
-  - name: Mahya Khazaei
-    profile_pic: /_images/khazayi.jpg
-
-  - name: Amir H. Amini
+  - name: Mahsa Ghaderan
     profile_pic: /_images/avatar.png
+
+  - name: Motahare Mirzaei
+    profile_pic: /_images/avatar.png
+
+  - name: Sara Kodeiri
+    profile_pic: /_images/sara-kodeiri.jpg
+    
