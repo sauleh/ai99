@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2020-02-04T8:00:00+4:30
-title: Introduction
+title: Lecture 1 - Introduction
 slides: https://drive.iust.ac.ir/index.php/s/FSwB9rAsEyu2eb7/download?path=%2FSlides&files=S1.pdf
 video: https://drive.iust.ac.ir/index.php/s/FSwB9rAsEyu2eb7/download?path=%2FVideos&files=S1.mp4
 #hide_from_announcments: true
