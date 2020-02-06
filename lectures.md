@@ -24,13 +24,24 @@ You can download the lectures here (in PDF format). I will try to upload lecture
               {{ lecture.slides }} 
             {% else %}
               {{ lecture.slides | prepend: site.baseurl }} 
-            {% endif %}">{{ lecture.title }}</a></span>
+            {% endif %}">{{ lecture.title }}</a>
+            </span><br>
 
-        <strong>tldr:</strong> {{ lecture.tldr }}
-        <br/>
+       {% if lecture.tldr %}
+            <strong>tl;dr:</strong> 
+            {{ lecture.tldr }}
+            <br/>
+        {% endif %}
+
+        {% if lecture.notetaker %}
+            <strong>Note Taker:</strong>
+            <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; font-size:12pt;">{{ lecture.notetaker }}</span>
+            <br/>
+        {% endif %}
+
         <strong>
-        {% include lecture_links.html lecture=lecture %}
-        </strong>
+            {% include lecture_links.html lecture=lecture %}
+        </strong>        
     </div>
 </div>
 </li>
