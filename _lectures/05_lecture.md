@@ -5,7 +5,7 @@ title: Lecture 5 - Graph - Shortest Paths BellmanFord and Negative Cycles
 slides: https://drive.iust.ac.ir/index.php/s/FSwB9rAsEyu2eb7/download?path=%2FSlides&files=S5.pdf
 video: https://drive.iust.ac.ir/index.php/s/FSwB9rAsEyu2eb7/download?path=%2FVideos&files=S5.mp4
 ext_slides: /static_files/presentations/graph.zip
-note_taker: یاسمن لطف اللهی
+notetaker: یاسمن لطف اللهی
 #notes: /static_files/presentations/lec.zip
 #codes: /static_files/presentations/code.zip
 tldr: We analyzed the computational complexity of Dijkstra, Bellmanford, proved their correctness and finally explained how we can find negative cycles.
