@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2020-02-25T8:00:00+4:30
+date: 2020-03-01T8:00:00+4:30
 title: Lecture 8 - Minimum Spanning Tree
 #slides: https://drive.iust.ac.ir/index.php/s/FSwB9rAsEyu2eb7/download?path=%2FSlides&files=S6.pdf
 video: https://drive.iust.ac.ir/index.php/s/FSwB9rAsEyu2eb7/download?path=%2FVideos&files=S8.mp4
