@@ -3,7 +3,7 @@ type: lecture
 date: 2020-03-03T8:00:00+4:30
 title: Lecture 9 - A* Search
 slides: https://drive.iust.ac.ir/index.php/s/FSwB9rAsEyu2eb7/download?path=%2FSlides&files=S9.pdf
-video: https://web.microsoftstream.com/video/d1ecbd69-2029-4c17-aeb3-e95fc25cfcb0
+video: https://drive.iust.ac.ir/index.php/s/FSwB9rAsEyu2eb7/download?path=%2FVideos&files=S9.mp4
 #video2: https://drive.iust.ac.ir/index.php/s/FSwB9rAsEyu2eb7/download?path=%2FVideos&files=S6b.mp4
 ext_slides: /static_files/presentations/graph.zip
 notetaker: علی فراهت
