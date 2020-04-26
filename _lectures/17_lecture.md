@@ -1,11 +1,11 @@
 ---
 type: lecture
-date: 2020-04-21T8:00:00+4:30
-title: Lecture 18 - Network Flow
-slides: https://drive.iust.ac.ir/index.php/s/FSwB9rAsEyu2eb7/download?path=%2FSlides&files=S18.pdf
-video: https://drive.iust.ac.ir/index.php/s/FSwB9rAsEyu2eb7/download?path=%2FVideos&files=S18.mp4
-ext_slides: /static_files/presentations/aa1.zip
-notetaker: مصطفی رستم‌خانی
+date: 2020-04-19T8:00:00+4:30
+title: Lecture 17 - Efficient Suffix Tree + Review of Advanced Module
+slides: https://drive.iust.ac.ir/index.php/s/FSwB9rAsEyu2eb7/download?path=%2FSlides&files=S17.pdf
+video: https://drive.iust.ac.ir/index.php/s/FSwB9rAsEyu2eb7/download?path=%2FVideos&files=S17.mp4
+ext_slides: /static_files/presentations/string4.zip
+notetaker: هستی کرمدل
 #notes: /static_files/presentations/lec.zip
 #codes: /static_files/presentations/code.zip
 #tldr: .
