@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2020-04-28T8:00:00+4:30
-title: Lecture 12 - Network Flow Applications + MeasureIt
+title: Lecture 20 - Network Flow Applications + MeasureIt
 slides: https://drive.iust.ac.ir/index.php/s/FSwB9rAsEyu2eb7/download?path=%2FSlides&files=S19.pdf
 video: https://drive.iust.ac.ir/index.php/s/FSwB9rAsEyu2eb7/download?path=%2FVideos&files=S19.mp4
 ext_slides: /static_files/presentations/aa1.zip
