@@ -10,6 +10,6 @@ notetaker: امین ثانی
 #codes: /static_files/presentations/code.zip
 #tldr: .
 #thumbnail: /static_files/presentations/lec.jpg
-#link1: https://drive.iust.ac.ir/index.php/s/FSwB9rAsEyu2eb7/download?path=%2FMaterial&files=Simplex_Cengage.pdf
+link1: https://medium.com/basecs/speeding-up-the-traveling-salesman-using-dynamic-programming-b76d7552e8dd
 #link2: https://www-m9.ma.tum.de/graph-algorithms/spp-dijkstra/index_en.html
 ---
