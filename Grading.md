@@ -4,7 +4,6 @@ title: Grading
 permalink: /grading/
 ---
 
-## Grading Track
 * 5%  - In-class assignments
 * 20% - Written Assignments
 * 30% - Programming Assignments
@@ -15,6 +14,8 @@ permalink: /grading/
 * 5%  - Class Notes
 * 10% - AI Wednesday Podcast Series 
 * 5% - Project
+* +/- 10% - Full Berkeley Syllabus
+* +/- 10% - Instructor's Opinion
 
 ## Honor Code
 Every student must submit a video reading the honor code. 

@@ -14,7 +14,7 @@ After setting up Azure DevOps and cloning it on your computer unpack [**this**](
 * Template\: A template project and solution.
 * azure-dotnet-build-test.yml: The pipeline configuration file.
 * .gitignore: ignore build/test artifacts
-* README.md: Project/Student description.
+* README.md: Student full name and ID.
 
 After add/commit/push of these files/directories in the root of your repository, use the included yml file to create a .netcore build/test pipeline. The build should be successful on master. Next, set the build as branch policy for master. You are now ready to start on your first assignment.
 
