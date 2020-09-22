@@ -12,11 +12,11 @@ teaching_assistants:
   - name: Ghazale Mahmoudi
     profile_pic: /_images/avatar.png
 
-  - name: Mahdi Moghadami
-    profile_pic: /_images/mahdi-moghaddami.jpg
+#  - name: Mahdi Moghadami
+#    profile_pic: /_images/mahdi-moghaddami.jpg
 
-  - name: Maryam S. Hashemi
-    profile_pic: /_images/hashemi.jpg
+#  - name: Maryam S. Hashemi
+#    profile_pic: /_images/hashemi.jpg
     
   - name: Mohammad Mahdi Abdollahpour
     profile_pic: /_images/avatar.png    
@@ -26,3 +26,6 @@ teaching_assistants:
 
   - name: Mahsa Ghaderan
     profile_pic: /_images/avatar.png  
+
+  - name: Parisa Yalsavar
+    profile_pic: /_images/avatar.png      
