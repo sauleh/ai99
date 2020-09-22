@@ -4,20 +4,12 @@ title: Assignments
 permalink: /assignments/
 ---
 
-You can download the assignments here (in PDF format). Also check out assignment's pages for any additional info.
-Use [**this**](../static_files/docs/AzureDevOpsAccount.pdf) guide to create Azure DevOps account. Next create a project named AD98992 and finall use [**this**](../static_files/docs/AdminAccess.pdf) guide to give me and TAs admin access.  
+Use [**this**](../static_files/docs/AzureDevOpsAccount.pdf) guide to create Azure DevOps account. Next create a project named AI99001 and finall use [**this**](../static_files/docs/AdminAccess.pdf) guide to give me and TAs admin access.  
 
-> ⚠ When following the guides above, make sure you use your own **student id** and use **AD98992** for project name. Also do not forget to add the **TA Account** as indicated in the guide.
+> ⚠ When following the guides above, make sure you use your own **student id** and use **AI99001** for project name. Also do not forget to add the **TA Account** as indicated in the guide.
 
 ## *Setup*
-After setting up Azure DevOps and cloning it on your computer unpack [**this**](../static_files/assignments/AD98992.rar) starter pack at the root of your repository. This pack includes:
-* TestCommons\: The required test library.
-* Template\: A template project and solution.
-* azure-dotnet-build-test.yml: The pipeline configuration file.
-* .gitignore: ignore build/test artifacts
-* README.md: Project/Student description.
-
-After add/commit/push of these files/directories in the root of your repository, use the included yml file to create a .netcore build/test pipeline. The build should be successful on master. Next, set the build as branch policy for master. You are now ready to start on your first assignment.
+After setting up Azure DevOps and cloning it on your computer make sure you initialize your repository with ".gitignore" file and README.md. Include your full name and student ID in the README.md file. Further instruction for setting up your repository will follow soon.
 
 
 <ul id="archive">

@@ -1,21 +1,21 @@
 # Site settings
 title: Iran University of Science and Technology
 course_name: Artificial Intelligence
-course_description: In this course, we aim to introduce students to algorithm thinking with an emphasis on learning through doing. After examining sylabus and course material from top universities including <a href="https://www.coursera.org/specializations/algorithms">Stanford</a>, <a href="http://www.princeton.edu/~cos226">Princeton</a> and <a href=https://courses.csail.mit.edu/6.006/>MIT</a> we have chosen to follow the <a href="https://www.coursera.org/specializations/data-structures-algorithms">Data Structure and Algorithms Specialization</a> developed by <a href="https://alexanderskulikov.github.io/">Alexander S. Kulikov</a> due to excellent course material and its practical approach.
+course_description: This course introduces students to the basic knowledge representation, problem solving, and learning methods of artificial intelligence. you will learn the foundational principles that drive AI applications and practice implementing some of these systems. We will be following the excellent <a href=http://ai.berkeley.edu>UC-Berkeley CS188</a> course material developed by Dan Klein and Pieter Abbeel.
 course_semester: "Fall 2020 "
 description: |
     Instructor: Mohammad Taher Pilevar and Sauleh Eetemadi
 
 message: #Register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
-baseurl: "/ad98" # the subpath of your site, e.g. /blog/
-url: "http://sauleh.github.io/ad98" # the base hostname & protocol for your site
+baseurl: "/ai99" # the subpath of your site, e.g. /blog/
+url: "http://sauleh.github.io/ai99" # the base hostname & protocol for your site
 githubdir: 
 
 # Author/user information
 email: instructor-first-name@iust.ac.ir
-twitter_username: sauleh_e 
-github_username:  sauleh
-authorurl: "http://sauleh.github.io"
+twitter_username: tpilehvar 
+github_username:  pilehvar
+authorurl: "webpages.iust.ac.ir/pilehvar/"
 address: |
     School of Computer Engineering
     Iran University of Science and Technology
