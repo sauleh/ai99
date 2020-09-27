@@ -27,7 +27,7 @@ comments: true
     <div>
         <div style="width:30%; float: left">
             <h2>Course instructor</h2>
-            {% for inst in site.data.people.instructor %}
+            {% for inst in site.data.people.instructors %}
             <div class="image--cover-container">
                 <img src="{{inst.profile_pic | prepend: site.baseurl }}" class="image--cover">
                 <p>{{inst.name}}</p>                
