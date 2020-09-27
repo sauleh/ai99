@@ -28,8 +28,10 @@ comments: true
         <div style="width:30%; float: left">
             <h2>Course instructor</h2>
             <div class="image--cover-container">
+                {% for ta in site.data.people.instructor %}
                 <img src="{{site.data.people.instructor.profile_pic | prepend: site.baseurl }}" class="image--cover">
                 <p>{{site.data.people.instructor.name}}</p>
+                {% endfor %}
             </div>
         </div>
 
