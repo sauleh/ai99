@@ -1,6 +1,12 @@
 offerings:
-  - title: Spring 2019
-    url: http://sauleh.github.io/ad97
+  - title: Spring 2020
+    url: https://iust-courses.github.io/ai982/
   
-#  - title: Fall 2048
-#    url: https://previous_course_website.url/
+  - title: Fall 2019
+    url: https://iust-courses.github.io/ai981/
+  
+  - title: Spring 2019
+    url: https://iust-courses.github.io/ai972/
+  
+  - title: Fall 2018
+    url: https://iust-courses.github.io/ai97/
