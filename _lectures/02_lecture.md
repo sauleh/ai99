@@ -7,7 +7,6 @@ video: https://web.microsoftstream.com/video/973741e6-4568-444c-8002-0064047f812
 #hide_from_announcments: true
 #notes: /static_files/presentations/lec.zip
 #codes: /static_files/presentations/code.zip
-tldr: Introduction to AI.
+#tldr: Course Logistics
 #thumbnail: /static_files/presentations/lec.jpg
 ---
-https://web.microsoftstream.com/video/7f157a9a-7302-4a50-9229-1aeebf8239fc
