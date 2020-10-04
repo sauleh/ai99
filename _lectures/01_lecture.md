@@ -7,6 +7,6 @@ video: https://web.microsoftstream.com/video/478f11ed-757f-4af8-93c3-a01d18eb9d7
 #hide_from_announcments: true
 #notes: /static_files/presentations/lec.zip
 #codes: /static_files/presentations/code.zip
-tldr: Introduction to AI.
+#tldr: Introduction to AI.
 #thumbnail: /static_files/presentations/lec.jpg
 ---

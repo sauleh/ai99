@@ -3,13 +3,7 @@ layout: page
 title: Lectures
 permalink: /lectures/
 ---
-
-You can download the lectures here (in PDF format). I will try to upload lectures prior to their corresponding classes.
-
-> 🆕 For students who have [signed up](https://www.signupgenius.com/go/20f0b4da9a72fa1fa7-algorithm) to take notes, please use [this](https://www.overleaf.com/latex/templates/iust-student-course-note-template/pgcyqhkkxcqr) LaTeX template in overleaf for the notes(zip version also available [here](static_files/Notes_Template.zip). You can either edit in overleaf or download MikTeX and TeXStudio on your computer. I recommend the latter. Please make sure you edit what is needed in main.tex and session.tex. Please remove any image/codefile/... you are not using. When you are done, please share your notes through an overleaf project, or send me a zipped version of the TeX files along with the PDF.
-
-> *Notes collected so far can be found [here](static_files/LectureNotes.pdf)* (last update: 8/4/2020)
-
+> Worksheet template can be found [here](static_files/docs/WorkSheetAnswerTemplate.pdf)
 
 <ul id="archive">
 {% for lecture in site.lectures reversed %}
