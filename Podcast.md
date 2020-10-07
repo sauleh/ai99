@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Grading
-permalink: /grading/
+title: Podcast
+permalink: /podcast/
 ---
 
 * 5%  - In-class assignments
@@ -17,6 +17,3 @@ permalink: /grading/
 * +/- 10% - Full Berkeley Syllabus
 * +/- 10% - Instructor's Opinion
 
-## Honor Code
-Every student must submit a video reading the honor code. 
-See the [**Instructions**](../static_files/docs/Honor-Code.pdf).
