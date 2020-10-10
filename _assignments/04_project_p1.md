@@ -1,7 +1,7 @@
 ---
 type: assignment
-date: 2020-10-03T4:00:00+4:30
-title: 'Project 0'
+date: 2020-10-10T4:00:00+4:30
+title: 'Project 1'
 pdf: /static_files/projects/P1.pdf
 #attachment: /static_files/assignments/A1.zip
 #solutions: /static_files/assignments
