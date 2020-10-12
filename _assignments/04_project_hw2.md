@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2020-10-12T4:00:00+4:30
-title: 'Project 1'
+title: 'Homework 2'
 pdf: /static_files/projects/HW2.pdf
 #attachment: /static_files/assignments/A1.zip
 #solutions: /static_files/assignments
