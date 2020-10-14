@@ -9,4 +9,5 @@ video: https://web.microsoftstream.com/video/226fbbea-5576-4006-986a-43a9e15ddf6
 #codes: /static_files/presentations/code.zip
 #tldr: Introduction to AI III + Search
 #thumbnail: /static_files/presentations/lec.jpg
+notetaker: آرمان حیدری
 ---
